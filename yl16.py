@@ -20,3 +20,4 @@ while guess != any_number:
     guess = int(input("Arva uuesti: "))
 print("Palju õnne! Arvasid õigesti!")
 
+
